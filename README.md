@@ -1,2 +1,3 @@
 # CTS285
-CTS 285 repository
+CTS 285 
+Brandon Edison
